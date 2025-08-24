@@ -1,0 +1,6 @@
+version: 1
+upload_to_github: yes
+upload_to_pypi: false
+build_command: echo "No build, just release"
+github:
+  token: $GITHUB_TOKEN
